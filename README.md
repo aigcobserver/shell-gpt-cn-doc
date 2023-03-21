@@ -1,5 +1,5 @@
-# Shell GPT
-由 OpenAI 的 ChatGPT (GPT-3.5) 提供支持的命令行生产力工具。作为开发人员，我们可以利用 ChatGPT 功能生成 shell 命令、代码片段、评论和文档等。忘记备忘单和注释，使用此工具，您可以直接在终端中获得准确的答案，并且您可能会发现自己减少了日常的 Google 搜索，从而节省了宝贵的时间和精力。
+# Shell GPT 中文使用说明文档
+Shell GPT 由 OpenAI 的 ChatGPT (GPT-3.5) 提供支持的命令行生产力工具。作为开发人员，我们可以利用 ChatGPT 功能生成 shell 命令、代码片段、评论和文档等。忘记备忘单和注释，使用此工具，您可以直接在终端中获得准确的答案，并且您可能会发现自己减少了日常的 Google 搜索，从而节省了宝贵的时间和精力。
 <div align="center">
     <img src="https://i.ibb.co/cNLN99f/output-rescaled.gif" width="800"/>
 </div>
